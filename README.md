@@ -31,12 +31,20 @@
 
 ## Задание 2
 
+Проект с кодом задания в папке [task-02](https://github.com/stkv1/terraform-02/tree/main/task-02)
+
 ## Задание 3
+
+Проект с кодом задания в папке [task-03](https://github.com/stkv1/terraform-02/tree/main/task-03)
 
 ## Задание 4
 
+Проект с кодом задания в папке [task-04](https://github.com/stkv1/terraform-02/tree/main/task-04)
+
 ## Задание 5
+
+Проект с кодом задания в папке [task-05](https://github.com/stkv1/terraform-02/tree/main/task-05)
 
 ## Задание 6
 
-## Задание 7
+Проект с кодом задания в папке [task-06](https://github.com/stkv1/terraform-02/tree/main/task-06)
