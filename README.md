@@ -4,9 +4,9 @@
 
 Скриншоты запущенной ВМ:
 
-[vm1](https://github.com/stkv1/terraform-02/blob/main/pic/23.PNG)
+![vm1](https://github.com/stkv1/terraform-02/blob/main/pic/23.PNG)
 
-[vm2](https://github.com/stkv1/terraform-02/blob/main/pic/24.PNG)
+![vm2](https://github.com/stkv1/terraform-02/blob/main/pic/24.PNG)
 
 Первая ошибка:
 
