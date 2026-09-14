@@ -41,6 +41,12 @@
 
 Проект с кодом задания в папке [task-04](https://github.com/stkv1/terraform-02/tree/main/task-04)
 
+Output:
+
+![vm1](https://github.com/stkv1/terraform-02/blob/main/pic/04-2.PNG)
+
+![vm1](https://github.com/stkv1/terraform-02/blob/main/pic/04-3.PNG)
+
 ## Задание 5
 
 Проект с кодом задания в папке [task-05](https://github.com/stkv1/terraform-02/tree/main/task-05)
