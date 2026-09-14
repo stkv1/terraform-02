@@ -50,28 +50,3 @@ resource "yandex_compute_instance" "platform" {
   }
 
 }
-
-/*resource "yandex_compute_instance" "platform-db" {
-  name        = var.vm_db_name
-  platform_id = "standard-v3"
-  zone        = var.vm_db_zone
-
-  resources {
-    cores         = vms_resources.db-vm.vm_cores
-    memory        = vms_resources.db-vm.vm_memory
-    core_fraction = vms_resources.db-vm.vm_fraction
-  }
-  boot_disk {
-    initialize_params {
-      image_id = data.yandex_compute_image.ubuntu.image_id
-    }
-  }
-  scheduling_policy {
-    preemptible = var.vm_preemptible
-  }
-  network_interface {
-    subnet_id = yandex_vpc_subnet.subnet_db.id
-    nat       = var.vm_nat
-  }
-
-}*/
