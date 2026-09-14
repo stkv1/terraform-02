@@ -12,7 +12,7 @@
 
 `platform standard-v4 not found`
 
-Платформы *standard-v4* в Yandex Cloud не существует
+Платформы *standart-v4* в Yandex Cloud не существует
 
 Правильный вариант *standard-v3*
 
