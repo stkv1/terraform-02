@@ -10,7 +10,7 @@
 
 Первая ошибка:
 
-`platform standard-v4 not found`
+`platform standart-v4 not found`
 
 Платформы *standart-v4* в Yandex Cloud не существует
 
