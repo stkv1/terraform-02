@@ -104,14 +104,6 @@ variable "vm_nat" {
   default = true
 }
 
-###ssh vars
-
-/*variable "vms_ssh_root_key" {
-  type        = string
-  default     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSL944uLWrUcD/mN0ZDp3ayhOT282Tc4V3DcWHl7Ab/VtlX5LvmilHXh4CMr+vXpf07GmeRH+l/P8GQUfPM9Ab9d28NKtV7YbGALYYlowr/bClmb3PFDIMTfLx1gBAbKk+p2ReQ0b3Yl2nG8nS/1Co+BIPY++M6GktYpylkd4ioe5CgS3jByqvPkzxqQZYfq1IRJG1DKtFXUQ2D70dhKz73ct9jxJdKqVSUGe/YvVVbT3d7iMblkyQgqZdluhJDJzvl47eAyEXueu+KlAKXgdI6m9e3z2pASmKapa9qU4BJ7muc9GKpiVBNWyzTXqhET4N+vQVO7jHWvRh5+CwwKOD"
-  description = "ssh-keygen -t ed25519"
-}*/
-
 # переменные для использования в блоке locals (задание 5)
 variable "stage" {
   type = string

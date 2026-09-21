@@ -67,10 +67,6 @@ variable "vm_web_nat" {
   type        = bool
   default     = true
 }
-
-
-
-
 ###ssh vars
 
 variable "vms_ssh_root_key" {
