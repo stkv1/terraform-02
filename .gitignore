@@ -1,0 +1,9 @@
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+src/
+task-02/.terraform/
+task-03/.terraform/
+task-04/.terraform/
+task-05/.terraform/
+task-06/.terraform/
