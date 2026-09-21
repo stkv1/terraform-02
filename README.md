@@ -4,9 +4,9 @@
 
 Скриншоты запущенной ВМ:
 
-![vm1](https://github.com/stkv1/terraform-02/blob/main/pic/23.PNG)
+![vm1](https://github.com/stkv1/terraform-02/blob/master/pic/23.PNG)
 
-![vm2](https://github.com/stkv1/terraform-02/blob/main/pic/24.PNG)
+![vm2](https://github.com/stkv1/terraform-02/blob/master/pic/24.PNG)
 
 Первая ошибка:
 
@@ -37,29 +37,29 @@
 
 ## Задание 2
 
-Проект с кодом задания в папке [task-02](https://github.com/stkv1/terraform-02/tree/main/task-02)
+Проект с кодом задания в папке [task-02](https://github.com/stkv1/terraform-02/tree/master/task-02)
 
 ## Задание 3
 
-Проект с кодом задания в папке [task-03](https://github.com/stkv1/terraform-02/tree/main/task-03)
+Проект с кодом задания в папке [task-03](https://github.com/stkv1/terraform-02/tree/master/task-03)
 
 ## Задание 4
 
-Проект с кодом задания в папке [task-04](https://github.com/stkv1/terraform-02/tree/main/task-04)
+Проект с кодом задания в папке [task-04](https://github.com/stkv1/terraform-02/tree/master/task-04)
 
 Output:
 
-![vm1](https://github.com/stkv1/terraform-02/blob/main/pic/04-2.PNG)
+![vm1](https://github.com/stkv1/terraform-02/blob/master/pic/04-2.PNG)
 
-![vm1](https://github.com/stkv1/terraform-02/blob/main/pic/04-3.PNG)
+![vm1](https://github.com/stkv1/terraform-02/blob/master/pic/04-3.PNG)
 
 ## Задание 5
 
-Проект с кодом задания в папке [task-05](https://github.com/stkv1/terraform-02/tree/main/task-05)
+Проект с кодом задания в папке [task-05](https://github.com/stkv1/terraform-02/tree/master/task-05)
 
 ## Задание 6
 
-Проект с кодом задания в папке [task-06](https://github.com/stkv1/terraform-02/tree/main/task-06)
+Проект с кодом задания в папке [task-06](https://github.com/stkv1/terraform-02/tree/master/task-06)
 
 В 6 задании создание двух VM происходит в одном ресурсе `compute instance` с использованием переменной `map (object)` и цикла `for_each`
 
